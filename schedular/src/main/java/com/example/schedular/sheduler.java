@@ -12,4 +12,5 @@ public class sheduler {
     public  static void d(String message){
         Log.d(tag,message);
     }
+    public static int add(int a,int b){return a+b;}
 }
